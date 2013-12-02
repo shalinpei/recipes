@@ -1,6 +1,6 @@
 [1]: http://www.thatssomichelle.com/2011/06/strawberry-margarita-jello-shots.html
 
-Strawberry Margarita Jello Shots
+Strawberry Margarita Jello Shot
 ==========
 > Notes: will have leftover jello... increase # of strawberries
 
