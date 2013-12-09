@@ -9,6 +9,7 @@ New
 - [Easy Parmesan Knots][7]
 - [Strawberry Margarita Jello Shots][8]
 - [Fancy Pink Lemonade Jello Shots][9]
+- [Pretzel Swirl Peppermint Bark][10]
 
 Previously made
 ----------
@@ -29,3 +30,4 @@ Perfected
 [7]: breads/easy-parmesan-knots.md
 [8]: drinks/strawberry-margarita-jello-shots.md
 [9]: drinks/fancy-pink-lemonade-jello-shots.md
+[10]: desserts/pretzel-swirl-peppermint-bark.md
